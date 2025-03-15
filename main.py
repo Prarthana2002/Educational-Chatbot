@@ -1,7 +1,6 @@
 import os
 import json
 import streamlit as st
-import google.generativeai as genai
 import speech_recognition as sr
 from gtts import gTTS
 import base64
